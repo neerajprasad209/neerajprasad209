@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Neeraj Prasad</h1>
 <h3 align="center">👋 Hi, I’m Neeraj Prasad @neerajprasad209</h3>
-<img aling ="right" alt="Coding" width="400" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
+<img aling ="right" alt="Coding" width="200" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
 
 - 🌱 I’m currently learning **Data Science**
 
