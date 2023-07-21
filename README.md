@@ -3,7 +3,7 @@
 <img aling ="right" alt="Coding" width="200" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
 
 - 🌱 I’m currently learning **Data Science**
-
+- 🌱 My topics of Interest are Machine Learning, AI, Deep Learning
 - 📫 How to reach me **neerajprasad.209@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
