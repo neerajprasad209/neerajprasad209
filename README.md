@@ -1,4 +1,4 @@
-<img aling ="right" alt="Coding" width="400" src="https://dribbble.com/shots/2951104-Data-Science-Philanthropy/attachments/9572691?mode=media">
+<img alt="Coding" width="400" src="https://dribbble.com/shots/2951104-Data-Science-Philanthropy/attachments/9572691?mode=media">
 
 # 💫 About Me:
 <h1>Hi 👋, I'm Neeraj Prasad</h1>
