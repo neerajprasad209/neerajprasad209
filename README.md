@@ -18,11 +18,12 @@
 
 ------
 
-# 📊 GitHub Stats:
+## GitHub Statistics
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=neerajprasad209&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=neerajprasad209&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=neerajprasad209&theme=dark&hide_border=false)<br/>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=kritikseth&hide=prs&show_icons=true&count_private=true&title_color=fff&icon_color=79ff97&bg_color=151515&theme=tokyonight&line_height=40">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kritikseth&hide=css,java,html&title_color=fff&bg_color=151515&theme=tokyonight">
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=neerajprasad209&icon=5&color=3)](https://visitcount.itsvg.in)
