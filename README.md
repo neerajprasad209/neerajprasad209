@@ -1,4 +1,4 @@
-<img  alt="Coding" src="https://cdn.dribbble.com/users/143861/screenshots/2951104/media/215f493a94460def8b6acbb92b6bf8ec.gif" width="560" height="420">
+<img  alt="Coding" src="https://cdn.dribbble.com/users/143861/screenshots/2951104/media/215f493a94460def8b6acbb92b6bf8ec.gif" width="660" height="250">
 
 # 💫 About Me:
 <h1>Hi 👋, I'm Neeraj Prasad</h1>
