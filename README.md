@@ -1,3 +1,5 @@
+<img aling ="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F2951104-Data-Science-Philanthropy&psig=AOvVaw3OmH_cjsAi8nuE7p1oa7dx&ust=1690099947071000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDf3YnvoYADFQAAAAAdAAAAABAP">
+
 # 💫 About Me:
 <h1>Hi 👋, I'm Neeraj Prasad</h1>
 🌱 My topics of Interest are Machine Learning, AI, Deep Learning<br>🌱 I’m currently learning Data Science<br>📫 How to reach me neerajprasad.209@gmail.com
