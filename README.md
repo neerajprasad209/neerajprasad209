@@ -1,7 +1,8 @@
 
 
 # 💫 About Me:
-<h1>Hi 👋, I'm Neeraj Prasad</h1>
+<h1>Hi 👋, I'm Neeraj Prasad</h1>  <h3 aling ="right"> [![](https://visitcount.itsvg.in/api?id=neerajprasad209&icon=5&color=3)](https://visitcount.itsvg.in) </h3>
+
 🌱 My topics of Interest are Machine Learning, AI, Deep Learning<br>🌱 I’m currently learning Data Science<br>📫 How to reach me neerajprasad.209@gmail.com
 
 
@@ -21,6 +22,5 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=neerajprasad209&icon=5&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
