@@ -19,9 +19,10 @@
 ------
 
 # 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=neerajprasad209&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=neerajprasad209&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=neerajprasad209&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=neerajprasad209&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=neerajprasad209&icon=5&color=3)](https://visitcount.itsvg.in)
