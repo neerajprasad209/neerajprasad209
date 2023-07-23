@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Neeraj Prasad @neerajprasad209<br>
+<h2 align="right">👋 Hi, I’m Neeraj Prasad <br></h2>
 🌱 My topics of Interest are Machine Learning, AI, Deep Learning<br>
 🌱 I’m currently learning Data Science<br>
 📫 How to reach me neerajprasad.209@gmail.com<br>
