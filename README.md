@@ -10,8 +10,6 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/kritikseth/kritikseth/master/assets/images/codegif.gif" width="320" height="284" /><br/>
 
-
-
 <!-- ---- -->
 
 # 💻 Tech Stack:
