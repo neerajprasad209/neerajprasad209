@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m Neeraj Prasad <br></h1>
-# 💫 About Me: <br>
+<h1> 💫 About Me: <br> </h1>
 🌱 My topics of Interest are Machine Learning, AI, Deep Learning<br>
 🌱 I’m currently learning Data Science<br>
 📫 How to reach me neerajprasad.209@gmail.com<br>
