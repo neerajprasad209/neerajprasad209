@@ -7,9 +7,7 @@
 <!-- ---- -->
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/neeraj._.20/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/neeraj-prasad-86a89b202/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Neeraj2097) 
-
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/kritikseth/kritikseth/master/assets/images/codegif.gif" width="320" height="284" /><br/>
-
 <!-- ---- -->
 
 # 💻 Tech Stack:
