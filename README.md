@@ -5,7 +5,7 @@
 🌱 I’m currently learning Data Science </br>
 📫 How to reach me neerajprasad.209@gmail.com </br>
 </p>
-<!-- ---- -->
+
 
 <br>I am currently looking for new opportunities. My inbox is always open, whether you have a question or just want to say hi, you can always connect with me. </br>
 
