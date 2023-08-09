@@ -5,11 +5,11 @@
 🌱 I’m currently learning Data Science </br>
 📫 How to reach me neerajprasad.209@gmail.com </br>
 </p>
+<!-- ---- -->
 
-
-
+<!-- ---- -->
 <br>I am currently looking for new opportunities. My inbox is always open, whether you have a question or just want to say hi, you can always connect with me. </br>
-
+<!-- ---- -->
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/neeraj._.20/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neeraj-prasad-86a89b202/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Neeraj2097) 
