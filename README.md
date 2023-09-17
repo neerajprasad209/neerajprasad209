@@ -22,9 +22,9 @@
 
 <!-- ---- -->
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=neerajprasad209&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neerajprasad209&size_weight=0.5&count_weight=0.5)<br>
 ![](https://github-readme-stats.vercel.app/api?username=neerajprasad209&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=neerajprasad209&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/neerajprasad209/github-readme-stats#gh-light-mode-only)<br/>
+[![Neeraj's's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=neerajprasad209&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/neerajprasad209/github-readme-stats#gh-light-mode-only)<br/>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
