@@ -6,11 +6,9 @@
 📫 How to reach me neerajprasad.209@gmail.com </br>
 </p>
 <!-- ---- -->
-
 <!-- ---- -->
 <br>I am currently looking for new opportunities. My inbox is always open, whether you have a question or just want to say hi, you can always connect with me. </br>
 <!-- ---- -->
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/neeraj._.20/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neeraj-prasad-86a89b202/) 
@@ -18,9 +16,8 @@
 
 <img  align="right" alt="GIF" src="https://raw.githubusercontent.com/kritikseth/kritikseth/master/assets/images/codegif.gif" width="280" height="264" /><br/>
 
+
 <!-- ---- -->
-
-
 ## 💻 Tech Stack:
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
