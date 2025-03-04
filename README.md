@@ -1,5 +1,5 @@
 <readme>
-<h1 align="center">👋 Hi, I’m Neeraj Prasad <br></h1>
+<h1 align="center">👋 Hi, I’m Neeraj Prasad. <br></h1>
 
 <h1>💫 About Me: <br></h1>
 <p>
