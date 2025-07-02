@@ -1,13 +1,15 @@
 <readme>
+
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350"></p>
+
 <h1 align="center">👋 Hi, I'm Neeraj Prasad <br></h1>
 
 <h1>💫 About Me: <br></h1>
 <p>
-🤖 I'm an AI/ML Engineer who speaks fluent Python, understands Transformer architecture better than my own apartment's architecture, and has a deep learning model for every occasion!<br>
-🧠 When I'm not training neural networks (or trying to explain to my coffee maker that it's not smart enough for deep learning yet), I'm crafting scalable AI solutions using PyTorch, Hugging Face, and LangChain.<br>
-☁️ Cloud platforms (AWS, Azure, GCP) are my playground, and Docker containers are my LEGO blocks - I build, stack, and sometimes accidentally drop them!<br>
-🎯 Specializing in Generative AI, LLMs, and MLOps - because someone needs to keep the AI models from taking over the world while making them incredibly useful.<br>
-📫 Want to chat about AI, swap Docker war stories, or discuss why my neural networks have better social skills than me? Reach out at <a href="mailto:neerajprasad.209@gmail.com">neerajprasad.209@gmail.com</a>.<br>
+🤖 I'm an AI/ML Engineer specializing in Generative AI, LLMs, and MLOps.<br>
+🧠 Crafting scalable AI solutions using PyTorch, Hugging Face, and LangChain.<br>
+☁️ Experienced with cloud platforms (AWS, Azure, GCP) and containerization.<br>
+📫 Reach out at <a href="mailto:neerajprasad.209@gmail.com">neerajprasad.209@gmail.com</a>.<br>
 </p>
 <br>
 I'm always open to exploring new opportunities and collaborating on innovative projects. Connect with me to discuss ideas or just to say hi!
@@ -29,7 +31,6 @@ I'm always open to exploring new opportunities and collaborating on innovative p
 **Tools & Platforms:**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)  ![Snowflake](https://img.shields.io/badge/Snowflake-00ACEE?style=for-the-badge&logo=snowflake&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)  ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500">
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=neerajprasad209&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br> ![Neeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=neerajprasad209&theme=github_dark&show_icons=true)<br/>
