@@ -4,6 +4,12 @@
 
 <h1 align="center">👋 Hi, I'm Neeraj Prasad <br></h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=AI+%2F+ML+Engineer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Machine+Learning+%7C+Deep+Learning+%7C+NLP;MLOps+%2F+LLM+Applications+%F0%9F%94%A7;Lifelong+Learner+%E2%9C%8C%EF%B8%8F;Open+to+Collaboration+%F0%9F%92%97" />
+</p>
+
+---
+
 <h1>💫 About Me: <br></h1>
 <p>
 🤖 I'm an AI/ML Engineer specializing in Generative AI, LLMs, and MLOps.<br>
